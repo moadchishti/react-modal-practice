@@ -1,0 +1,28 @@
+.shell {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+    background-color: #6482AD;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #E2DAD6;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+
+label {
+    font-weight: bolder;
+    color: #FFF;
+}
